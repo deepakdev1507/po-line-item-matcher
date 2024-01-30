@@ -1,0 +1,13 @@
+[
+    {
+        "Item_no.": "10",
+        "Material_No./Description": "SZ0904-0037-00IN",
+        "HSN/SAC": "82079090",
+        "Quantity": "5",
+        "UoM": "NOS",
+        "Rate": "8141.25",
+        "Location": "10.05.2023",
+        "Delivery_date": "40,706.25",
+        "Amount": "40,706.25"
+    }
+]

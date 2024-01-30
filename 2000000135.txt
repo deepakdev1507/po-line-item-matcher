@@ -1,0 +1,400 @@
+[
+    {
+        "Item_no.": "10",
+        "Material_No./Description": "210505-0010-00HA NAMEPLATE, 1W",
+        "HSN/SAC": "48211010",
+        "Quantity": "39,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "30.04.2023",
+        "Amount": "221,130.00"
+    },
+    {
+        "Item_no.": "20",
+        "Material_No./Description": "210505-0020-00HA NAMEPLATE, 1W",
+        "HSN/SAC": "48211010",
+        "Quantity": "12,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "30.04.2023",
+        "Amount": "48,120.00"
+    },
+    {
+        "Item_no.": "30",
+        "Material_No./Description": "210516-0080-00HA CASE",
+        "HSN/SAC": "85079090",
+        "Quantity": "10,800",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "30.04.2023",
+        "Amount": "5,738,580.00"
+    },
+    {
+        "Item_no.": "40",
+        "Material_No./Description": "210586-0080-00HA SEAL, BATTERY PACK",
+        "HSN/SAC": "40169390",
+        "Quantity": "136,800",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "30.04.2023",
+        "Amount": "2,581,416.00"
+    },
+    {
+        "Item_no.": "50",
+        "Material_No./Description": "921000-4201-00HA SCREW, FLANGE",
+        "HSN/SAC": "73181500",
+        "Quantity": "180,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "30.04.2023",
+        "Amount": "268,200.00"
+    },
+    {
+        "Item_no.": "60",
+        "Material_No./Description": "210525-0090-00HA TERMINAL SUB-ASSY",
+        "HSN/SAC": "85079090",
+        "Quantity": "29,376",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "30.04.2023",
+        "Amount": "18,234,270.72"
+    },
+{
+    "Item_no.": "70",
+    "Material_No./Description": "210548-0360-00HA BUSBAR",
+    "HSN/SAC": "85369090",
+    "Quantity": "29160",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "5237719.20"
+  },
+  {
+    "Item_no.": "80",
+    "Material_No./Description": "210548-0370-00HA BUSBAR",
+    "HSN/SAC": "85369090",
+    "Quantity": "29808",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "5770530.72"
+  },
+  {
+    "Item_no.": "90",
+    "Material_No./Description": "210548-0380-00HA BUSBAR",
+    "HSN/SAC": "85369090",
+    "Quantity": "28512",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "3602776.32"
+  },
+  {
+    "Item_no.": "100",
+    "Material_No./Description": "210548-0390-00HA BUSBAR",
+    "HSN/SAC": "85369090",
+    "Quantity": "29808",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "3203465.76"
+  },
+  {
+    "Item_no.": "110",
+    "Material_No./Description": "210531-0070-00HA Carrier- MinoTHAI",
+    "HSN/SAC": "76169990",
+    "Quantity": "18200",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "73605168.00"
+  },
+  {
+    "Item_no.": "120",
+    "Material_No./Description": "210517-0060-00HA PLATE",
+    "HSN/SAC": "85079090",
+    "Quantity": "44064",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "4309018.56"
+  },
+  {
+    "Item_no.": "130",
+    "Material_No./Description": "210535-0081-00HA COVER SUB-ASSY",
+    "HSN/SAC": "85079090",
+    "Quantity": "1728",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "1419880.32"
+  },
+  {
+    "Item_no.": "140",
+    "Material_No./Description": "210535-0130-00HA COVER SUB-ASSY CKD with PCL",
+    "HSN/SAC": "85079090",
+    "Quantity": "13536",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "11122395.84"
+  },
+  {
+    "Item_no.": "150",
+    "Material_No./Description": "210546-0060-00HA SHEET, INSULATION",
+    "HSN/SAC": "85079090",
+    "Quantity": "60000",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "2554800.00"
+  },
+  {
+    "Item_no.": "160",
+    "Material_No./Description": "210546-0070-00HA SHEET, INSULATION",
+    "HSN/SAC": "85079090",
+    "Quantity": "33600",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "2406432.00"
+  },
+  {
+    "Item_no.": "170",
+    "Material_No./Description": "210560-0010-00HA IC, POWER CONTROL",
+    "HSN/SAC": "85423100",
+    "Quantity": "120960",
+    "UoM": "NOS",
+    "Rate": "RPA*",
+    "Location": "MRW2",
+    "Delivery_date": "30.04.2023",
+    "Amount": "111482784.00"
+  },
+{
+        "Item_no.": "180",
+        "Material_No./Description": "949530-2950-00HA",
+        "HSN/SAC": "85361060",
+        "Quantity": "25,200",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "3,109,932.00"
+    },
+    {
+        "Item_no.": "190",
+        "Material_No./Description": "949056-4940-00HA",
+        "HSN/SAC": "73181600",
+        "Quantity": "110,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "897,600.00"
+    },
+    {
+        "Item_no.": "200",
+        "Material_No./Description": "949007-4850-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "230,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "218,500.00"
+    },
+    {
+        "Item_no.": "210",
+        "Material_No./Description": "913700-3121-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "102,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "146,880.00"
+    },
+    {
+        "Item_no.": "220",
+        "Material_No./Description": "918080-8101-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "55,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "449,900.00"
+    },
+    {
+        "Item_no.": "230",
+        "Material_No./Description": "918000-6101-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "30,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "183,600.00"
+    },
+    {
+        "Item_no.": "240",
+        "Material_No./Description": "921000-4081-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "20,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "45,400.00"
+    },
+    {
+        "Item_no.": "250",
+        "Material_No./Description": "921000-4148-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "250,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "387,500.00"
+    },
+    {
+        "Item_no.": "260",
+        "Material_No./Description": "921000-5141-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "309,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "562,380.00"
+    },
+    {
+        "Item_no.": "270",
+        "Material_No./Description": "921000-5251-00HA",
+        "HSN/SAC": "73181500",
+        "Quantity": "136,000",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "420,240.00"
+    },
+    {
+        "Item_no.": "280",
+        "Material_No./Description": "210516-0090-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "25,272",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "11,102,495.04"
+    },
+{
+        "Item_no.": "290",
+        "Material_No./Description": "210515-0020-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "31,428",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "48,928,681.80"
+    },
+    {
+        "Item_no.": "300",
+        "Material_No./Description": "210550-0250-00HA",
+        "HSN/SAC": "90328910",
+        "Quantity": "26,856",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "109,416,715.20"
+    },
+    {
+        "Item_no.": "310",
+        "Material_No./Description": "210536-0070-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "31,752",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "4,443,374.88"
+    },
+    {
+        "Item_no.": "320",
+        "Material_No./Description": "210533-0020-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "34,358",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "8,129,789.96"
+    },
+    {
+        "Item_no.": "330",
+        "Material_No./Description": "210517-0070-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "28,080",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "1,174,305.60"
+    },
+    {
+        "Item_no.": "340",
+        "Material_No./Description": "210537-0030-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "60,480",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "445,737.60"
+    },
+    {
+        "Item_no.": "350",
+        "Material_No./Description": "210535-0101-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "25,056",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "14,653,751.04"
+    },
+    {
+        "Item_no.": "360",
+        "Material_No./Description": "210535-0110-00HA",
+        "HSN/SAC": "85079090",
+        "Quantity": "2,808",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "1,642,230.72"
+    },
+    {
+        "Item_no.": "370",
+        "Material_No./Description": "210531-0060-00HA",
+        "HSN/SAC": "76169990",
+        "Quantity": "1",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "2,599.30"
+    },
+    {
+        "Item_no.": "380",
+        "Material_No./Description": "210531-0050-00HA",
+        "HSN/SAC": "76169990",
+        "Quantity": "3,336",
+        "UoM": "NOS",
+        "Rate": "RPA* MRW2",
+        "Location": "30.04.2023",
+        "Delivery_date": "8,671,264.80"
+    }
+
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "Item_no.": "10",
+        "Material_No./Description": "IZ0433-2174-00IN Pressure Sensor PA-758-153G-R2-012",
+        "HSN/SAC": "90268090",
+        "Quantity": "1",
+        "UoM": "NOS",
+        "Rate": "45189.12",
+        "Location": "30.05.2023",
+        "Delivery_date": "",
+        "Amount": "45,189.12"
+    }
+]
