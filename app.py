@@ -35,7 +35,7 @@ def process_more(invoice_Line, po_line_items):
         {"role": "system", "content": "Given below are the line items of the PO: "+str(po_line_items)},
         {"role": "system", "content": "Your task is to find the line items that are present in the PO. with all the details like quantity,Are there any difference in quantity,what is the difference, unit price, total price, etc. and always respond back in json format"},
         {"role": "system", "content": "mentioning difference in quatity is must, if there is no difference in quantity then mention it as 0."},
-        {"role": "system", "content": "give the response in two json objects, one for the line items that are present in the PO and the other for the line items that are not present in the PO."}
+        {"role": "system", "content": "give the response in two json objects, one for the invoice line items that are present in the PO and the other for the invoice line items that are not present in the PO line items."}
     ], 
     response_format={"type": "json_object"},
     temperature=0.1
